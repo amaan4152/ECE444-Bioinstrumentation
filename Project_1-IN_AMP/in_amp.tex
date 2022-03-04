@@ -1,0 +1,54 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{subcaption}
+\usepackage{multirow}
+\usepackage{siunitx}
+\usepackage{parskip}
+\usepackage{marvosym}
+\usepackage{mathtools}
+\usepackage{graphicx} % Include figure files
+\usepackage{bm}
+\usepackage{booktabs}
+\usepackage{hyperref}
+\usepackage{pdfpages}
+\usepackage[T1]{fontenc}
+\usepackage{baskervillef}
+\usepackage[varqu,varl,var0]{inconsolata}
+\usepackage[scale=.95,type1]{cabin}
+\usepackage[baskerville,vvarbb]{newtxmath}
+\usepackage[cal=boondoxo]{mathalfa}
+\usepackage{natbib}
+\usepackage{graphicx}
+\usepackage{librebaskerville}
+\usepackage[T1]{fontenc}
+\graphicspath{./images/}
+\title{Instrumentation Amplifier}
+\author{Amaan Rahman \\
+The Cooper Union \\
+B.E. of Electrical Engineering \\
+ECE-444: Bio-instrumentation}
+
+\begin{document}
+\maketitle
+\section{Abstract}
+The instrumentation amplifier is 2-stage amplifier; the former stage consists of 2 differential operation amplifiers configured as buffer amplifiers, and the latter stage consists of a unity gain amplifier. The advantages of this amplifier topology are high open loop gain and high Common-Mode-Rejection-Ratio (CMMR). Thus, the instrumentation amplifier is practical in scenarios where a differential signal is small and further amplification is required. 
+
+\section{Introduction}
+An LTSpice simulation schematic has been setup, as can be seen in (FIGURE). The physical circuit has been built accordingly to the topology structure in (FIGURE). \\
+
+The gain of the circuit can be derived as follows:
+\begin{equation*}
+    \begin{aligned}
+        \Delta v_{in} &= v_{+in} - v_{-in} \\
+    \end{aligned}
+\end{equation*}
+\[
+    \begin{rcases}
+        \frac{v_{out} - v_y}{R} &= \frac{v_y - v_{o_1}}{R}
+        
+    \end{rcases}
+\]
+\end{document}
+
