@@ -32,7 +32,7 @@ ECE-444: Bio-instrumentation}
 \begin{document}
 \maketitle
 \section{Abstract}
-The instrumentation amplifier is 2-stage amplifier; the former stage consists of 2 differential operation amplifiers configured as buffer amplifiers, and the latter stage consists of a unity gain amplifier. The advantages of this amplifier topology are high open loop gain and high Common-Mode-Rejection-Ratio (CMMR). Thus, the instrumentation amplifier is practical in scenarios where a differential signal is small and further amplification is required. 
+The instrumentation amplifier is 2-stage amplifier; the former stage consists of 2 differential operation amplifiers configured as buffer amplifiers, and the latter stage consists of a unity gain amplifier. The advantages of this amplifier topology are high open loop gain and high Common-Mode-Rejection-Ratio (CMMR). Thus, the instrumentation amplifier is practical in scenarios where a differential signal is small and further amplification is required.
 
 \section{Introduction}
 An LTSpice simulation schematic has been setup, as can be seen in (FIGURE). The physical circuit has been built accordingly to the topology structure in (FIGURE). \\
@@ -40,7 +40,7 @@ An LTSpice simulation schematic has been setup, as can be seen in (FIGURE). The 
 The gain of the circuit can be derived as follows: \\
 \hspace*{1cm}Let $v_{o_i}$ represent the output voltages of each respective operational amplifier, and $v_x,\;v_y$ be the input volatges of the unity gain buffer. \\
 \begin{equation*}
-        \Delta v_{in} = v_{+in} - v_{-in} \\
+    \Delta v_{in} = v_{+in} - v_{-in} \\
 \end{equation*}
 \[
     \begin{rcases}
@@ -50,25 +50,26 @@ The gain of the circuit can be derived as follows: \\
 \]
 \begin{equation*}
     \begin{aligned}
-        \frac{v_{o_2} - v_{o_1}}{2R_2 + R_1} &= \frac{\Delta v_{in}}{R_1} \\
-        \frac{v_{out}}{2R_2 + R_1} &= \frac{\Delta v_{in}}{R_1} \\
-        A_v = \frac{v_{out}}{v_{in}} &= 1 + \frac{2R_2}{R_1}
+        \frac{v_{o_2} - v_{o_1}}{2R_2 + R_1} & = \frac{\Delta v_{in}}{R_1} \\
+        \frac{v_{out}}{2R_2 + R_1}           & = \frac{\Delta v_{in}}{R_1} \\
+        A_v = \frac{v_{out}}{v_{in}}         & = 1 + \frac{2R_2}{R_1}
     \end{aligned}
 \end{equation*}
+Initially, the output voltage of the instrumentation amplifier can be proved to be equivalent to the differential input of the unity gain buffer, thus proving that the buffer has unity gain $v_{out} = v_{o_2} - v_{o_1}$. Through basic node analysis between the differential output of the initial stage of the instrumentation amplifier and its differential input, and given unity gain at the final stage, the gain is derived to be $A_v = 1 + \frac{2R_2}{R_1}$
 \vfill
 \section{Procedure}
-Components: 
+Components:
 \begin{itemize}
     \item 3 411 Operational amplifiers
-    \item $R_2:\;250k\Omega$
-    \item $R_1:\;500\Omega$
+    \item $R_2:\;240k\Omega$
+    \item $R_1:\;510\Omega$
     \item $R:\;1k\Omega$
 \end{itemize}
 \section{Results}
 \section{Discussion}
-According to (FIGURE OF EXPERIMENTAL GAIN PLOT), the corner frequency is around 2kHz; however, in simulation, (FIGURE OF SIM GAIN PLOT), the corner frequency is around 1kHz. This ~1kHz difference in the corner frequency could be due to the propogated delays of capturing the gain at each frequency in the frequency response through a script to automate the frequency response, in courtesy of Richard Lee. It could also be due to the resistance values and the effect of parasitic capacitances of the operational amplifier. 
+According to (FIGURE OF EXPERIMENTAL GAIN PLOT), the corner frequency is around 2kHz; however, in simulation, (FIGURE OF SIM GAIN PLOT), the corner frequency is around 1kHz. This ~1kHz difference in the corner frequency could be due to the propogated delays of capturing the gain at each frequency in the frequency response through a script to automate the frequency response, in courtesy of Richard Lee. It could also be due to the resistance values and the effect of parasitic capacitances of the operational amplifier.
 
-There was difficulty in figuring out where the corner frequency is derived from exactly, but through prolonged experimentation and simulations, manipulating $R_2$ and $R_1$ ratio such that gain is very large ($\sim500\,\frac{V}{V}$) yields in decreasing the corner frequency such that the bandwidth decreases dramatically. 
+There was difficulty in figuring out where the corner frequency is derived from exactly, but through prolonged experimentation and simulations, manipulating $R_2$ and $R_1$ ratio such that gain is very large ($\sim500\,\frac{V}{V}$) yields in decreasing the corner frequency such that the bandwidth decreases dramatically.
 
 Another difficulty was generating the frequency response of the instrumentation amplifier without tabulating oscciliscope data by hand. Due to never using a spectrum analyzer before, it took time to figure it out. Nonetheless, all signals were visible at various frequencies. If the center frequency matches the frequency of the output signal frequency, a main lobe is oberseved with a gain (dB) that matches the expected gain of the intrumentation amplifier. However, a frequency sweep was required to generate the approprite gain bode plot of the instrumentation amplifier, and that functionality could not be discovered as of yet.
 \section{Appendix: Simulations}
