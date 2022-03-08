@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.1.20)  7 MAR 2022 17:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.1.20)  7 MAR 2022 23:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -721,48 +721,48 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 ) (/mnt/c/Users/Amaan/Documents/papers/ece-444-bioinst/Project_1-IN_AMP/in_amp.aux)
 \openout1 = `in_amp.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/zbami/m/it on input line 33.
-LaTeX Font Info:    Trying to load font information for OML+zbami on input line 33.
+LaTeX Font Info:    Checking defaults for OML/zbami/m/it on input line 34.
+LaTeX Font Info:    Trying to load font information for OML+zbami on input line 34.
  (/usr/share/texlive/texmf-dist/tex/latex/baskervillef/omlzbami.fd
 File: omlzbami.fd 2016/11/11 Fontinst v1.933 font definitions for OML/zbami.
 )
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 33.
-LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 33.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 34.
+LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 34.
  (/usr/share/texlive/texmf-dist/tex/latex/newtx/untxexa.fd
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 33.
-LaTeX Font Info:    Trying to load font information for LY1+ptm on input line 33.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 34.
+LaTeX Font Info:    Trying to load font information for LY1+ptm on input line 34.
  (/usr/share/texlive/texmf-dist/tex/latex/ly1/ly1ptm.fd
 File: ly1ptm.fd 2001/02/01 font definitions for LY1/ptm using Berry names.
 )
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 33.
-LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line 33.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 34.
+LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line 34.
  (/usr/share/texlive/texmf-dist/tex/latex/newtx/lmsntxsy.fd
 File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
 )
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 33.
-LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input line 33.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 34.
+LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input line 34.
  (/usr/share/texlive/texmf-dist/tex/latex/newtx/lmxntxexx.fd
 File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
 )
-LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    ... okay on input line 34.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
@@ -791,7 +791,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 \AtBeginShipoutBox=\box62
-Package hyperref Info: Link coloring OFF on input line 33.
+Package hyperref Info: Link coloring OFF on input line 34.
  (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
  (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
@@ -801,9 +801,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count323
 )
-LaTeX Info: Redefining \ref on input line 33.
-LaTeX Info: Redefining \pageref on input line 33.
-LaTeX Info: Redefining \nameref on input line 33.
+LaTeX Info: Redefining \ref on input line 34.
+LaTeX Info: Redefining \pageref on input line 34.
+LaTeX Info: Redefining \nameref on input line 34.
  (/mnt/c/Users/Amaan/Documents/papers/ece-444-bioinst/Project_1-IN_AMP/in_amp.out) (/mnt/c/Users/Amaan/Documents/papers/ece-444-bioinst/Project_1-IN_AMP/in_amp.out)
 \@outlinefile=\write3
 \openout3 = `in_amp.out'.
@@ -820,184 +820,184 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
  (/usr/share/texlive/texmf-dist/tex/latex/upquote/upquote.sty
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verbatim
 )
-LaTeX Font Info:    Trying to load font information for OT1+BaskervilleF-TLF on input line 33.
+LaTeX Font Info:    Trying to load font information for OT1+BaskervilleF-TLF on input line 34.
  (/usr/share/texlive/texmf-dist/tex/latex/baskervillef/OT1BaskervilleF-TLF.fd
 File: OT1BaskervilleF-TLF.fd 2016/11/15 (autoinst) Font definitions for OT1/BaskervilleF-TLF.
 )
 LaTeX Font Info:    Font shape `OT1/BaskervilleF-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 33.
+(Font)              scaled to size 10.0pt on input line 34.
 LaTeX Font Info:    Font shape `OT1/BaskervilleF-TLF/m/n' will be
-(Font)              scaled to size 7.3pt on input line 33.
+(Font)              scaled to size 7.3pt on input line 34.
 LaTeX Font Info:    Font shape `OT1/BaskervilleF-TLF/m/n' will be
-(Font)              scaled to size 5.5pt on input line 33.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 33.
+(Font)              scaled to size 5.5pt on input line 34.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 34.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 33.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 34.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 33.
+(Font)              size <5> substituted on input line 34.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <5.5> not available
-(Font)              size <5> substituted on input line 33.
+(Font)              size <5> substituted on input line 34.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 33.
+(Font)              size <5> substituted on input line 34.
 
-LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 33.
+LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 34.
 (/usr/share/texlive/texmf-dist/tex/latex/newtx/untxmia.fd
 File: untxmia.fd 2018/04/14 Fontinst v1.933 font definitions for U/ntxmia.
 )
-LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 33.
+LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 34.
  (/usr/share/texlive/texmf-dist/tex/latex/newtx/untxsym.fd
 File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
 )
-LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 33.
+LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 34.
  (/usr/share/texlive/texmf-dist/tex/latex/newtx/untxsyc.fd
 File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
 )
-LaTeX Font Info:    Trying to load font information for T1+Cabin-TLF on input line 33.
+LaTeX Font Info:    Trying to load font information for T1+Cabin-TLF on input line 34.
  (/usr/share/texlive/texmf-dist/tex/latex/cabin/T1Cabin-TLF.fd
 File: T1Cabin-TLF.fd 2019/10/21 (autoinst) Font definitions for T1/Cabin-TLF.
 )
 LaTeX Font Info:    Font shape `T1/Cabin-TLF/m/n' in size <10> not available
-(Font)              Font shape `T1/Cabin-TLF/regular/n' tried instead on input line 33.
+(Font)              Font shape `T1/Cabin-TLF/regular/n' tried instead on input line 34.
 LaTeX Font Info:    Font shape `T1/Cabin-TLF/regular/n' will be
-(Font)              scaled to size 9.49997pt on input line 33.
+(Font)              scaled to size 9.49997pt on input line 34.
 LaTeX Font Info:    Font shape `T1/Cabin-TLF/m/n' in size <7.3> not available
-(Font)              Font shape `T1/Cabin-TLF/regular/n' tried instead on input line 33.
+(Font)              Font shape `T1/Cabin-TLF/regular/n' tried instead on input line 34.
 LaTeX Font Info:    Font shape `T1/Cabin-TLF/regular/n' will be
-(Font)              scaled to size 6.93497pt on input line 33.
+(Font)              scaled to size 6.93497pt on input line 34.
 LaTeX Font Info:    Font shape `T1/Cabin-TLF/m/n' in size <5.5> not available
-(Font)              Font shape `T1/Cabin-TLF/regular/n' tried instead on input line 33.
+(Font)              Font shape `T1/Cabin-TLF/regular/n' tried instead on input line 34.
 LaTeX Font Info:    Font shape `T1/Cabin-TLF/regular/n' will be
-(Font)              scaled to size 5.22498pt on input line 33.
-LaTeX Font Info:    Trying to load font information for T1+zi4 on input line 33.
+(Font)              scaled to size 5.22498pt on input line 34.
+LaTeX Font Info:    Trying to load font information for T1+zi4 on input line 34.
  (/usr/share/texlive/texmf-dist/tex/latex/inconsolata/t1zi4.fd
 File: t1zi4.fd 2018/01/14 T1/zi4 (Inconsolata)
 )
 LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
-(Font)              scaled to size 10.0pt on input line 33.
+(Font)              scaled to size 10.0pt on input line 34.
 LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
-(Font)              scaled to size 7.3pt on input line 33.
+(Font)              scaled to size 7.3pt on input line 34.
 LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
-(Font)              scaled to size 5.5pt on input line 33.
+(Font)              scaled to size 5.5pt on input line 34.
 LaTeX Font Info:    Font shape `T1/BaskervilleF-TLF/m/n' will be
-(Font)              scaled to size 17.28pt on input line 36.
+(Font)              scaled to size 17.28pt on input line 37.
 LaTeX Font Info:    Font shape `T1/BaskervilleF-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 36.
+(Font)              scaled to size 12.0pt on input line 37.
 LaTeX Font Info:    Font shape `OT1/BaskervilleF-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 36.
+(Font)              scaled to size 12.0pt on input line 37.
 LaTeX Font Info:    Font shape `OT1/BaskervilleF-TLF/m/n' will be
-(Font)              scaled to size 8.8pt on input line 36.
+(Font)              scaled to size 8.8pt on input line 37.
 LaTeX Font Info:    Font shape `OT1/BaskervilleF-TLF/m/n' will be
-(Font)              scaled to size 6.6pt on input line 36.
+(Font)              scaled to size 6.6pt on input line 37.
 LaTeX Font Info:    Font shape `T1/Cabin-TLF/m/n' in size <12> not available
-(Font)              Font shape `T1/Cabin-TLF/regular/n' tried instead on input line 36.
+(Font)              Font shape `T1/Cabin-TLF/regular/n' tried instead on input line 37.
 LaTeX Font Info:    Font shape `T1/Cabin-TLF/regular/n' will be
-(Font)              scaled to size 11.39996pt on input line 36.
+(Font)              scaled to size 11.39996pt on input line 37.
 LaTeX Font Info:    Font shape `T1/Cabin-TLF/m/n' in size <8.8> not available
-(Font)              Font shape `T1/Cabin-TLF/regular/n' tried instead on input line 36.
+(Font)              Font shape `T1/Cabin-TLF/regular/n' tried instead on input line 37.
 LaTeX Font Info:    Font shape `T1/Cabin-TLF/regular/n' will be
-(Font)              scaled to size 8.35997pt on input line 36.
+(Font)              scaled to size 8.35997pt on input line 37.
 LaTeX Font Info:    Font shape `T1/Cabin-TLF/m/n' in size <6.6> not available
-(Font)              Font shape `T1/Cabin-TLF/regular/n' tried instead on input line 36.
+(Font)              Font shape `T1/Cabin-TLF/regular/n' tried instead on input line 37.
 LaTeX Font Info:    Font shape `T1/Cabin-TLF/regular/n' will be
-(Font)              scaled to size 6.26997pt on input line 36.
+(Font)              scaled to size 6.26997pt on input line 37.
 LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
-(Font)              scaled to size 12.0pt on input line 36.
+(Font)              scaled to size 12.0pt on input line 37.
 LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
-(Font)              scaled to size 8.8pt on input line 36.
+(Font)              scaled to size 8.8pt on input line 37.
 LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
-(Font)              scaled to size 6.6pt on input line 36.
+(Font)              scaled to size 6.6pt on input line 37.
 LaTeX Font Info:    Font shape `T1/BaskervilleF-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 36.
+(Font)              scaled to size 14.4pt on input line 37.
 LaTeX Font Info:    Font shape `T1/BaskervilleF-TLF/b/n' will be
-(Font)              scaled to size 14.4pt on input line 36.
-<simulation/spice_schematic.png, id=36, 615.80063pt x 501.37312pt>
+(Font)              scaled to size 14.4pt on input line 37.
+<simulation/spice_schematic.png, id=40, 615.80063pt x 501.37312pt>
 File: simulation/spice_schematic.png Graphic file (type png)
 <use simulation/spice_schematic.png>
-Package pdftex.def Info: simulation/spice_schematic.png  used on input line 43.
+Package pdftex.def Info: simulation/spice_schematic.png  used on input line 44.
 (pdftex.def)             Requested size: 307.89955pt x 250.68594pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Font Info:    Font shape `T1/BaskervilleF-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 49.
+(Font)              scaled to size 10.0pt on input line 50.
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--50
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 51--52
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
 
  []
 
 LaTeX Font Info:    Font shape `T1/BaskervilleF-TLF/m/it' will be
-(Font)              scaled to size 10.0pt on input line 53.
+(Font)              scaled to size 10.0pt on input line 54.
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-<simulation/circuit_setup.jpg, id=56, 4047.12pt x 3035.34pt>
+<simulation/circuit_setup.jpg, id=60, 4047.12pt x 3035.34pt>
 File: simulation/circuit_setup.jpg Graphic file (type jpg)
 <use simulation/circuit_setup.jpg>
-Package pdftex.def Info: simulation/circuit_setup.jpg  used on input line 79.
+Package pdftex.def Info: simulation/circuit_setup.jpg  used on input line 80.
 (pdftex.def)             Requested size: 323.77621pt x 242.83215pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-LaTeX Font Info:    Trying to load font information for TS1+BaskervilleF-TLF on input line 87.
+LaTeX Font Info:    Trying to load font information for TS1+BaskervilleF-TLF on input line 88.
 (/usr/share/texlive/texmf-dist/tex/latex/baskervillef/TS1BaskervilleF-TLF.fd
 File: TS1BaskervilleF-TLF.fd 2016/11/15 (autoinst) Font definitions for TS1/BaskervilleF-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/BaskervilleF-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 87.
+(Font)              scaled to size 10.0pt on input line 88.
  [2 </mnt/c/Users/Amaan/Documents/papers/ece-444-bioinst/Project_1-IN_AMP/simulation/spice_schematic.png>]
 LaTeX Font Info:    Font shape `T1/BaskervilleF-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 96.
-<simulation/frequency_response_a.pdf, id=63, 527.08919pt x 376.52669pt>
+(Font)              scaled to size 12.0pt on input line 103.
+<simulation/frequency_response_a.pdf, id=67, 527.08919pt x 376.52669pt>
 File: simulation/frequency_response_a.pdf Graphic file (type pdf)
 <use simulation/frequency_response_a.pdf>
-Package pdftex.def Info: simulation/frequency_response_a.pdf  used on input line 99.
+Package pdftex.def Info: simulation/frequency_response_a.pdf  used on input line 106.
 (pdftex.def)             Requested size: 263.54395pt x 188.26288pt.
  [3 </mnt/c/Users/Amaan/Documents/papers/ece-444-bioinst/Project_1-IN_AMP/simulation/circuit_setup.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 111--113
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 119--121
 
  []
 
-[4 </mnt/c/Users/Amaan/Documents/papers/ece-444-bioinst/Project_1-IN_AMP/simulation/frequency_response_a.pdf>]
-<simulation/bode_plot_right.png, id=85, 704.6325pt x 316.93407pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--129
+
+ []
+
+[4 </mnt/c/Users/Amaan/Documents/papers/ece-444-bioinst/Project_1-IN_AMP/simulation/frequency_response_a.pdf>] [5]
+<simulation/bode_plot_right.png, id=93, 704.6325pt x 316.93407pt>
 File: simulation/bode_plot_right.png Graphic file (type png)
 <use simulation/bode_plot_right.png>
-Package pdftex.def Info: simulation/bode_plot_right.png  used on input line 136.
+Package pdftex.def Info: simulation/bode_plot_right.png  used on input line 162.
 (pdftex.def)             Requested size: 458.0057pt x 206.0047pt.
 
-Overfull \hbox (119.8057pt too wide) in paragraph at lines 136--137
+Overfull \hbox (119.8057pt too wide) in paragraph at lines 162--163
  [] 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 141.
-[5 </mnt/c/Users/Amaan/Documents/papers/ece-444-bioinst/Project_1-IN_AMP/simulation/bode_plot_right.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 141.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 167.
+[6 </mnt/c/Users/Amaan/Documents/papers/ece-444-bioinst/Project_1-IN_AMP/simulation/bode_plot_right.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 167.
  (/mnt/c/Users/Amaan/Documents/papers/ece-444-bioinst/Project_1-IN_AMP/in_amp.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 141.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 141.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 167.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 167.
 Package rerunfilecheck Info: File `in_amp.out' has not changed.
-(rerunfilecheck)             Checksum: A1FD36E7585BFE80E375670F660E6CC9;397.
+(rerunfilecheck)             Checksum: B0DEB45AB27E133A75A7800735510CCE;463.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -1005,18 +1005,18 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 16329 strings out of 481239
- 282249 string characters out of 5920377
+ 16332 strings out of 481239
+ 282285 string characters out of 5920377
  515871 words of memory out of 5000000
- 31182 multiletter control sequences out of 15000+600000
+ 31183 multiletter control sequences out of 15000+600000
  814646 words of font info for 154 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 48i,9n,77p,883b,739s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 48i,9n,77p,883b,788s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/baskervillef/zba_3oppw2.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/baskervillef/zba_taxp3x.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/baskervillef/zba_hkkd2g.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/baskervaldx/bvalph.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/baskervillef/BaskervilleF-Bold.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/baskervillef/BaskervilleF-Italic.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/baskervillef/BaskervilleF-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/txexs.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/txmiaX.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsya.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/txsys.pfb>
-Output written on /mnt/c/Users/Amaan/Documents/papers/ece-444-bioinst/Project_1-IN_AMP/in_amp.pdf (5 pages, 2881566 bytes).
+Output written on /mnt/c/Users/Amaan/Documents/papers/ece-444-bioinst/Project_1-IN_AMP/in_amp.pdf (6 pages, 2884608 bytes).
 PDF statistics:
- 128 PDF objects out of 1000 (max. 8388607)
- 104 compressed objects within 2 object streams
- 18 named destinations out of 1000 (max. 500000)
- 85 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 137 PDF objects out of 1000 (max. 8388607)
+ 112 compressed objects within 2 object streams
+ 20 named destinations out of 1000 (max. 500000)
+ 93 words of extra memory for PDF output out of 10000 (max. 10000000)
 
